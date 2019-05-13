@@ -328,6 +328,10 @@ main.person{
     }
 }
 
+.ocultar{
+    opacity: 0;
+}
+
 
 
 
